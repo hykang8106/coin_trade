@@ -1,0 +1,52 @@
+
+C:\Users\hykang>pyqt5-tools designer
+
+DISPLAY is not set
+
+LD_LIBRARY_PATH is not set
+
+PYQTDESIGNERPATH:
+;
+PYTHONPATH: C:\Users\hykang\AppData\Local\Programs\Python\Python38\Scripts\pyqt5-tools.exe;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\python38.zip;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\DLLs;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\lib;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\lib\site-packages;
+;
+
+PATH: C:\Users\hykang\AppData\Local\Programs\Python\Python38\Scripts\pyqt5-tools.exe;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\python38.zip;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\DLLs;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\lib;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\lib\site-packages;
+;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\lib\site-packages\PyQt5\Qt5\bin;
+C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\\v1.0\;
+C:\Windows\System32\OpenSSH\;
+C:\Program Files\Calibre2\;
+C:\Program Files\MATLAB\R2017b\runtime\win64;
+C:\Program Files\MATLAB\R2017b\bin;
+C:\Program Files (x86)\QuickTime\QTSystem\;
+C:\Program Files\R\R-4.1.0\bin\x64;
+C:\Users\hykang\Downloads\plink-1.07-dos;
+C:\Program Files\nodejs\;
+C:\ProgramData\chocolatey\bin;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\Scripts\;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\;
+C:\Users\hykang\AppData\Local\Microsoft\WindowsApps;
+C:\Users\hykang\AppData\Local\Programs\Microsoft VS Code\bin;
+C:\Users\hykang\.vscode\extensions\ms-vscode.cpptools-0.29.0\bin\;
+C:\Users\hykang\AppData\Roaming\npm;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\Scripts;
+
+QML2_IMPORT_PATH is not set
+
+QT_DEBUG_PLUGINS is not set
+
+QT_PLUGIN_PATH: 
+;
+C:\Users\hykang\AppData\Local\Programs\Python\Python38\Lib\site-packages\PyQt5\Qt5\plugins;
+c:\users\hykang\appdata\local\programs\python\python38\lib\site-packages\pyqt5_plugins\Qt\plugins

@@ -4,7 +4,28 @@
 # ConnectionError: 
 # ('Connection aborted.', ConnectionResetError(10054, 
 # '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None)) 
+#
+# my suspect: remaining request per minute is exhausted?
 #############
+
+"""   
+    "remaining_request": {
+      "group": "candles",
+      "min": "599",
+      "sec": "9"
+    },
+    "response": {
+      "url": "https://api.upbit.com/v1/candles/days?market=KRW-DOGE&to=2021-09-30+09%3A00%3A00&count=200",
+      "headers": "{'Date': 'Sat, 21 May 2022 13:57:58 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Remaining-Req': 'group=candles; min=599; sec=9', 'Vary': 'origin,access-control-request-method,access-control-request-headers,accept-encoding', 'X-Frame-Options': 'DENY', 'Expires': '0', 'ETag': 'W/\"09763e0fcb1acec6cbaa60b8efe8df62f\"', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '1; mode=block', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Pragma': 'no-cache', 'Content-Encoding': 'gzip'}",
+      "status_code": 200,
+      "reason": "",
+      "text": "[{\"market\":\"KRW-DOGE\",\"candle_date_time_utc\"...
+    "result": {...
+"""
+
+###########################
+# for remaining request code, see "get_remaining_request.py"
+###########################
 
 from doge_trade import *
 
